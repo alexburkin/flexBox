@@ -56,7 +56,7 @@ body {
     flex-wrap: wrap;
   }
   .card {
-    flex-basis: 80%;
+    flex-basis: 100%;
   }
   .card_img {
     width: 100%;
